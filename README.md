@@ -36,6 +36,7 @@ sudo insmod mem_tracker.ko
 cat /proc/mem_tracker  # Verify output
 python ui.py
 ```
+---
 ## Usage
 
 - Monitor kernel memory in real-time with graph and progress bar.
@@ -44,8 +45,11 @@ python ui.py
 - Toggle dark/light UI theme.
 - Save current memory usage graph as an image.
 - Receive alerts when usage crosses threshold.
+---
 
  ## Output Snapshots
  ![Graph](graph.jpg)
+ ----
  ![Graph](graph2.jpg)
+ ----
  ![Graph](graph3.jpg)
