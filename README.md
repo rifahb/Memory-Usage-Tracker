@@ -34,7 +34,7 @@ This project includes:
 make
 sudo insmod mem_tracker.ko
 cat /proc/mem_tracker  # Verify output
-python finalui.py
+python ui.py
 ```
 ## Usage
 
@@ -44,4 +44,7 @@ python finalui.py
 - Toggle dark/light UI theme.
 - Save current memory usage graph as an image.
 - Receive alerts when usage crosses threshold.
+
+ ## Output Snapshots
+ ![Graph](graph.png)
 
