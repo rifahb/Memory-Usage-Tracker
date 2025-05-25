@@ -46,5 +46,5 @@ python ui.py
 - Receive alerts when usage crosses threshold.
 
  ## Output Snapshots
- ![Graph](graph.png)
-
+ ![Graph](graph.jpg)
+ ![Graph](graph2.jpg)
